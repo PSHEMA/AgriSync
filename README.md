@@ -127,3 +127,13 @@ Capstone Project – 2025
 ---
 
 *Built with ❤️ for the farming community*
+#
+
+# [Demo Video](https://www.loom.com/share/46badaca724d46e49842e434bf1f40e8?sid=88baf6bf-014e-4d6e-80b5-6a49f80dec43)
+
+# Screenshots:
+
+![LoginPage](./screenshots/login.png)
+![RegisterPage](./screenshots/Signup.png)
+![Admin's Dashboard](./screenshots/Admin's%20dashboard.png)
+![Worker's Dashboard](./screenshots/worker's%20dashboard.png)
