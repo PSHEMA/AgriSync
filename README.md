@@ -6,7 +6,6 @@ AgriSync Lite is a simplified farm management web application designed to help f
 
 ### 🖥️ Frontend (React)
 - React + Vite
-- TypeScript
 - Tailwind CSS
 - React Router
 - Axios
